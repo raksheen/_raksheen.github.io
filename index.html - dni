@@ -11,18 +11,18 @@
     <title>Roxy Ayaz</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="./vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
-    <link href="./vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
     <!-- Plugin CSS -->
-    <link href="./vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
 
     <!-- Custom styles for this template -->
-    <link href="./css/freelancer.min.css" rel="stylesheet">
+    <link href="css/freelancer.min.css" rel="stylesheet">
 
   </head>
 
@@ -56,7 +56,7 @@
     <header class="masthead bg-primary text-white text-center">
       <div class = "header-background">
       <!-- <div class="container"> -->
-        <img class="img-fluid mb-5 d-block mx-auto" src="./img/dj_roxy.png" alt="">
+        <img class="img-fluid mb-5 d-block mx-auto" src="img/dj_roxy.png" alt="">
         <h1 class="text-uppercase mb-0">Roxy ayaz</h1>
         <hr class="star-light">
         <h2 class="font-weight-light mb-0">Full Stack Web Developer in New York, NY</h2>
@@ -77,7 +77,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="./img/portfolio/ExpMatch.png" alt="">
+              <img class="img-fluid" src="img/portfolio/ExpMatch.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -87,7 +87,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="./img/portfolio/trader_joes.png" alt="">
+              <img class="img-fluid" src="img/portfolio/trader_joes.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -97,7 +97,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="./img/portfolio/SugarRush.png" alt="">
+              <img class="img-fluid" src="img/portfolio/SugarRush.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -107,7 +107,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="./img/portfolio/tennis.png" alt="">
+              <img class="img-fluid" src="img/portfolio/tennis.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -117,7 +117,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="./img/portfolio/chewsy.png" alt="">
+              <img class="img-fluid" src="img/portfolio/chewsy.png" alt="">
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -127,7 +127,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="./img/portfolio/toy_story.png" alt="">
+              <img class="img-fluid" src="img/portfolio/toy_story.png" alt="">
             </a>
           </div>
         </div>
@@ -278,7 +278,7 @@
             <div class="col-lg-8 mx-auto">
               <h2 class="text-secondary text-uppercase mb-0">ExpMatch: Dating App</h2>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="./img/portfolio/ExpMatch.png" alt="">
+              <img class="img-fluid mb-5" src="img/portfolio/ExpMatch.png" alt="">
               <p class="mb-5">Inspired by Tinder, this dating app is created to help you match with your next ex. </p>
               <p><a href="https://github.com/raksheen/dating-app">GitHub</p></a>
               <br />
@@ -306,7 +306,7 @@
 
               <h2 class="text-secondary text-uppercase mb-0">Trader Joe's: Meal Prep Edition</h2>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="./img/portfolio/trader_joes.png" alt="">
+              <img class="img-fluid mb-5" src="img/portfolio/trader_joes.png" alt="">
               <p class="mb-5">You are packing lunch for the upcoming week. Your budget is $30. You must pick one food item from each category, and you will not be able to see any of the prices. Once you have made a selection you cannot go back.</p>
               <p><a href="https://github.com/raksheen/trader_joes">GitHub</p></a>
               <br />
@@ -336,7 +336,7 @@
             <div class="col-lg-8 mx-auto">
               <h2 class="text-secondary text-uppercase mb-0">SugarRush: Brooklyn Chocolate eCommerce Site</h2>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="./img/portfolio/SugarRush.png" alt="">
+              <img class="img-fluid mb-5" src="img/portfolio/SugarRush.png" alt="">
               <p class="mb-5">This site is made for a company called SugarRush which is a curated site that sells chocolate bars from local Brooklyn chocolate startups, such as: Mast Brothers, Fine & Raw Chocolates and Freaky Health Co.</p>
               <p><a href="https://github.com/raksheen/brooklyn-chocolates">GitHub</p></a>
               <br />
@@ -363,7 +363,7 @@
             <div class="col-lg-8 mx-auto">
               <h2 class="text-secondary text-uppercase mb-0">Tennis Game</h2>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="./img/portfolio/tennis.png" alt="">
+              <img class="img-fluid mb-5" src="img/portfolio/tennis.png" alt="">
               <p class="mb-5">Interactive tennis game. Play agains your computer. You are player-left, your computer is player-right. Good luck!</p>
               <p><a href="https://github.com/raksheen/tennis-game">GitHub</p></a>
               <br />
@@ -390,7 +390,7 @@
             <div class="col-lg-8 mx-auto">
               <h2 class="text-secondary text-uppercase mb-0">Chewsy: Find a Recipe By Allergen</h2>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="./img/portfolio/chewsy.png" alt="">
+              <img class="img-fluid mb-5" src="img/portfolio/chewsy.png" alt="">
               <p class="mb-5">This app allows you to advanced search a recipe you are searching for. Type in a recipe you'd like to search and select over 10+ allergens you have to find a list of perfect recipes for you.</p>
               <p><a href="https://github.com/ark234/FLYING-ORANGE">GitHub</p></a>
               <br />
@@ -418,7 +418,7 @@
             <div class="col-lg-8 mx-auto">
               <h2 class="text-secondary text-uppercase mb-0">Toy Story 3: Promotional Website</h2>
               <hr class="star-dark mb-5">
-              <img class="img-fluid mb-5" src="./img/portfolio/toy_story.png" alt="">
+              <img class="img-fluid mb-5" src="img/portfolio/toy_story.png" alt="">
               <p class="mb-5">Created a website for the greatest movie of all time--Toy Story 3. This site contains more information about the story line, the characters and the creators. As well as information on Toy Story 4.</p>
               <p><a href="https://github.com/raksheen/ToyStory3">GitHub</p></a>
               <br />
@@ -435,19 +435,19 @@
     </div>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="./vendor/jquery/jquery.min.js"></script>
-    <script src="./vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="./portfolio-site/vendor/jquery/jquery.min.js"></script>
+    <script src="./portfolio-site/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="./vendor/jquery-easing/jquery.easing.min.js"></script>
-    <script src="./vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="./portfolio-site/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="./portfolio-site/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
 
     <!-- Contact Form JavaScript -->
-    <script src="./js/jqBootstrapValidation.js"></script>
-    <script src="./js/contact_me.js"></script>
+    <script src="./portfolio-site/js/jqBootstrapValidation.js"></script>
+    <script src="./portfolio-site/js/contact_me.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="./js/freelancer.min.js"></script>
+    <script src="./portfolio-site/js/freelancer.min.js"></script>
 
   </body>
 
