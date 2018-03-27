@@ -395,4 +395,6 @@ a:active {
   border-color: #1a252f;
 }
 
-
+.project-title {
+  text-align: center;
+}
