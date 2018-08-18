@@ -303,6 +303,7 @@ a:hover {
 .bg-primary {
   background-color: #18bc9c !important;
   background: url("http://www.webdesigndev.com/wp-content/uploads/2015/01/30-Free-Polygonal-Low-Poly-Background-Textures.gif");
+  opacity: 1.5;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
